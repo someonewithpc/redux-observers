@@ -1,3 +1,7 @@
+# NOTICE
+
+This is a fork while https://github.com/xuoe/redux-observers/pull/23 gets reviewed and merged
+
 # redux-observers
 
 [![Build Status](https://img.shields.io/travis/xuoe/redux-observers.svg?style=flat-square)](https://travis-ci.org/xuoe/redux-observers)
